@@ -1,1 +1,1 @@
-# The experiments and codes.
+# The experiments and codes for Course "Introduction to Computer Science".
